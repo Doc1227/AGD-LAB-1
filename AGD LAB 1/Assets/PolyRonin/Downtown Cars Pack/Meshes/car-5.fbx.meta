@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 44165f122603cce46b01d97bfb49cd24
+guid: 6855904f450c086478bc948ffbd31164
 AssetOrigin:
   serializedVersion: 1
-  productId: 205787
-  packageName: Pandazole - City Town Lowpoly Pack
-  packageVersion: 1.0.0
-  assetPath: Assets/Pandazole_Ultimate_Pack/Pandazole City Town Pack/Models/Env_CompanyBuilding_02.fbx
-  uploadId: 467034
+  productId: 312705
+  packageName: Low Poly Downtown Cars Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyRonin/Downtown Cars Pack/Meshes/car-5.fbx
+  uploadId: 737184
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -15,7 +15,7 @@ ModelImporter:
     materialImportMode: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -50,7 +50,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 0
+    nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -106,8 +106,8 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 0
-  remapMaterialsIfMaterialImportModeIsNone: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
